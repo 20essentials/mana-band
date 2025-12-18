@@ -1,0 +1,23 @@
+export const nameBand = 'MANÁ';
+export let nameSongs = [
+	"OYE MI AMOR", /*1*/
+	"CLAVADO EN UN BAR", /*2*/
+	"RAYANDO EL SOL", /*3*/
+	"LABIOS COMPARTIDOS", /*4*/
+	"ERES MI RELIGIÓN", /*5*/
+	"EN EL MUELLE DE SAN BLAS", /*6*/
+	"HECHICERA ", /*7*/
+	"COMO TE DESEO", /*8*/
+	"DE PIES A CABEZA", /*9*/
+	" ME VALE", /*10*/
+	"BENDITA TU LUZ", /*11*/
+	"VIVIR SIN AIRE", /*12*/
+	"TE LLORE EN UN RIO", /*13*/
+	"MARIPOSA TRAICIONERA", /*14*/
+	"TE LLEVARE AL CIELO", /*15*/
+	" MANDA UNA SEÑAL", /*16*/
+	"AMOR CLANDESTINO", /*17*/
+	"EL REY TIBURÓN", /*18*/
+	"ANGEL DE AMOR", /*19*/
+	"EL VERDADERO AMOR PERDONA", /*20*/
+]
